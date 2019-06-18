@@ -20,6 +20,6 @@ A library that converts numbers(integer) to words
 > AmountToWordsConsoleApp
 - Contains the console application
 >HelperLibrary
-- Contains the amount to words function (dll)
+- Contains the amount to words function / method (dll)
 >HelperLibraryUnitTests
 - Contains the test scenarios for the library
