@@ -13,7 +13,7 @@ A library that converts numbers(integer) to words
 
 
 ## Exception
-- Other characters are not allowed and the console application will throw an error
+- Other characters are not allowed and the console application will throw an error message
 
 
 ## Visual Studio Projects
